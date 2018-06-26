@@ -1,0 +1,8 @@
+# Matlab
+*.mat
+*.asv
+
+# Dataset
+SVC2004/
+SUSIG/
+MCYT/
