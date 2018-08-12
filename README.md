@@ -2,7 +2,7 @@
 The code of "A Novel Multiple Distances Based Dynamic Time Warping Method for Online Signature Verification"
 
 ## MDB-DTW
-- Paper Link: 
+- Paper Link: https://rd.springer.com/chapter/10.1007/978-3-319-97909-0_68
 
 - Title: A Novel Multiple Distances Based Dynamic Time Warping Method for Online Signature Verification
 
